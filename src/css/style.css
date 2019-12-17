@@ -1280,3 +1280,15 @@ figure figcaption {
     margin-top: 0px;
     margin-bottom: 0px;
 }
+.hover-skill {
+    transition: background-size;
+ 
+}
+
+.hover-skill:hover {
+    z-index: 2;
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    transform: scale(1.1);
+}
