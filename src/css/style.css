@@ -79,6 +79,7 @@ figure figcaption {
     -webkit-text-fill-color: transparent;
 }
 
+
 /* Back to top button */
 
 .back-to-top {
@@ -122,11 +123,11 @@ figure figcaption {
 
 .btn.btn-outline-white:hover {
     background: #fff;
-    color: #2d71a1;
+    color: rgba(228, 60, 760, 0.8);
 }
 
 .btn.btn-primary {
-    background: #2d71a1;
+    background: rgba(228, 60, 760, 0.8);
     background: linear-gradient(-45deg, #1391a5, #274685);
     color: #fff;
     box-shadow: 0 10px 30px 0 rgba(0, 0, 0, 0.15);
@@ -1280,9 +1281,9 @@ figure figcaption {
     margin-top: 0px;
     margin-bottom: 0px;
 }
+
 .hover-skill {
     transition: background-size;
- 
 }
 
 .hover-skill:hover {
