@@ -1293,3 +1293,9 @@ figure figcaption {
     -moz-transform: scale(1.1);
     transform: scale(1.1);
 }
+.denemeP{
+    font-size: 15px;
+    margin-bottom: 50px;
+    margin-top: -50px;
+    
+}
