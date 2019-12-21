@@ -1211,7 +1211,8 @@ figure figcaption {
     background: #f8f9fa;
     position: relative;
     text-align: center;
-    transition: .3s background ease;
+
+
     color: #0d1e2d;
 }
 
@@ -1226,7 +1227,7 @@ figure figcaption {
 
 .social a:hover {
     color: #fff;
-    background: #red;
+
 }
 
 @media screen and (max-width: 992px) {
@@ -1299,3 +1300,9 @@ figure figcaption {
     margin-top: -50px;
     
 }
+.denemesrm-img-fix{
+    width: 20%;
+    height: auto;
+}
+
+
