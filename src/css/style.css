@@ -264,7 +264,7 @@ figure figcaption {
 }
 
 .pricing h3 {
-    color: #2d71a1;
+    color: black;
 }
 
 .pricing .price-cta {
@@ -712,6 +712,13 @@ figure figcaption {
     font-size: 3.5rem;
     color: #fff;
     font-weight: 700;
+    margin-bottom: 30px;
+}
+
+.hero-section h2 {
+    font-size: 3rem;
+    color: #fff;
+    font-weight: 600;
     margin-bottom: 30px;
 }
 
@@ -1211,8 +1218,6 @@ figure figcaption {
     background: #f8f9fa;
     position: relative;
     text-align: center;
-
-
     color: #0d1e2d;
 }
 
@@ -1227,7 +1232,6 @@ figure figcaption {
 
 .social a:hover {
     color: #fff;
-
 }
 
 @media screen and (max-width: 992px) {
@@ -1294,15 +1298,58 @@ figure figcaption {
     -moz-transform: scale(1.1);
     transform: scale(1.1);
 }
-.denemeP{
+
+.denemeP {
     font-size: 15px;
     margin-bottom: 50px;
     margin-top: -50px;
-    
 }
-.denemesrm-img-fix{
+
+.denemesrm-img-fix {
     width: 20%;
     height: auto;
 }
 
+.e-ticaret-logo {
+    width: 5%;
+}
 
+.e-ticaret-logo-min {
+    width: 20%;
+}
+
+.e-ticaret-logo-mid {
+    width: 10%;
+}
+
+.e-ticaret-logo-gittigidiyor {
+    width: 30%;
+}
+
+.e-ticaret-logo-hepsiburada {
+    width: 30%;
+}
+
+.e-ticaret-logo-epttavm {
+    width: 30%;
+}
+
+.e-ticaret-logo-akakce {
+    width: 30%;
+}
+
+.e-ticaret-logo-trendyol {
+    width: 25%;
+}
+
+.e-ticaret-logo-Aliexpress {
+    width: 30%;
+}
+
+.e-ticaret-logo-google {
+    width: 20%;
+}
+
+.e-ticaret-logo-cimri {
+    width: 25%;
+}
