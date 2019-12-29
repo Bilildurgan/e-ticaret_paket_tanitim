@@ -1315,41 +1315,50 @@ figure figcaption {
 }
 
 .e-ticaret-logo-min {
-    width: 20%;
+    width: 15%;
 }
 
 .e-ticaret-logo-mid {
-    width: 10%;
+    width: 5%;
 }
 
 .e-ticaret-logo-gittigidiyor {
-    width: 30%;
+    width: 25%;
 }
 
 .e-ticaret-logo-hepsiburada {
-    width: 30%;
+    width: 25%;
 }
 
 .e-ticaret-logo-epttavm {
-    width: 30%;
+    width: 25%;
 }
 
 .e-ticaret-logo-akakce {
-    width: 30%;
+    width: 25%;
 }
 
 .e-ticaret-logo-trendyol {
-    width: 25%;
-}
-
-.e-ticaret-logo-Aliexpress {
-    width: 30%;
-}
-
-.e-ticaret-logo-google {
     width: 20%;
 }
 
-.e-ticaret-logo-cimri {
+.e-ticaret-logo-Aliexpress {
     width: 25%;
+}
+
+.e-ticaret-logo-google {
+    width: 15%;
+}
+
+.e-ticaret-logo-cimri {
+    width: 20%;
+}
+.logo-background-blur{
+        background-color: rgba(228, 60, 760, 0.8);
+        background-size: cover;
+ 
+}
+.margin-padding-zero{
+    margin: 0px;
+    padding: 0px;
 }
