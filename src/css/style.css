@@ -1362,3 +1362,7 @@ figure figcaption {
     border: 1px solid rgba(228, 60, 760, 0.8);
     border-radius: 24px;
 }
+.check-size{
+    width: 3%;
+    height: auto;
+}
